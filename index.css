@@ -1,0 +1,243 @@
+body{
+  color: aliceblue;
+  text-shadow: 2px 4px 8px black;
+  align-items: center;
+  background:linear-gradient(#102542, pink,#102542 )
+}
+.head{
+  text-align: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.a{
+  background-color: rgb(235, 7, 7);
+  padding: 5px;
+}
+h1{
+font-family: 'Happy Monkey', cursive;
+font-family: 'Orbitron', sans-serif;
+font-size: 60px;
+}
+h2{
+  font-family: 'Happy Monkey', cursive;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 30px; 
+}
+h3, p{
+  font-family: 'Happy Monkey', cursive;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 10px; 
+  padding: 4px;
+  margin: 5px auto;
+}
+h4{
+    font-family: 'Happy Monkey', cursive;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 10px; 
+    border-width: 4px;
+    border-style: solid;
+    padding: 4px;
+    border-radius: 3px;
+    margin: 5px auto;
+    width: 90px;
+}
+.img{
+  border-radius: 50%;
+  border-color: aliceblue;
+  border-width: 5px;
+  border-style: solid;
+  width: 250px; 
+}
+.toyota{
+  background-image: url("toyota.webp");
+  width: 400px;
+  border: 6px solid aliceblue;
+  height: 300px;
+  background-size: cover;
+  box-shadow: 0px 0px 10px black;
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s;
+  height: 200px;
+  margin: 10px auto;
+
+}
+.toyota:hover{
+  -ms-transform: scale(1.5); 
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+}
+.Mazda{
+  margin: 0 auto;
+  background-image: url("Mazda.webp");
+  width: 400px;
+  border: 6px solid aliceblue;
+  height: 300px;
+  background-size: cover;
+  box-shadow: 0px 0px 10px black;
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s;
+  height: 200px;
+  margin: 10px auto;
+}
+.Mazda:hover{
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+}
+.porsche{
+  margin: 0 auto;
+  background-image: url("Porsche911.jpg");
+  width: 400px;
+  border: 6px solid aliceblue;
+  height: 300px;
+  background-size: cover;
+  box-shadow: 0px 0px 10px black;
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s;
+  height: 200px;
+  margin: 10px auto;
+}
+.porsche:hover{
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+}
+.alpine{
+  margin: 0 auto;
+  background-image: url("Alpine.webp");
+  width: 400px;
+  border: 6px solid aliceblue;
+  height: 300px;
+  background-size: cover;
+  box-shadow: 0px 0px 10px black;
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s;
+  height: 200px;
+  margin: 10px auto;
+}
+.alpine:hover{
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+}
+.boxter{
+  margin: 0 auto;
+  background-image: url("boxter.webp");
+  width: 400px;
+  border: 6px solid aliceblue;
+  height: 300px;
+  background-size: cover;
+  box-shadow: 0px 0px 10px black;
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s;
+  height: 200px;
+  margin: 10px auto;
+}
+.boxter:hover{
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+}
+.BMW{
+  margin: 0 auto;
+  background-image: url("BMW.webp");
+  width: 400px;
+  border: 6px solid aliceblue;
+  height: 300px;
+  background-size: cover;
+  box-shadow: 0px 0px 10px black;
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s;
+  height: 200px;
+  margin: 10px auto;
+}
+.BMW:hover{
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+}
+.Mclaren{
+  margin: 0 auto;
+  background-image: url("Mclaren.webp");
+  width: 400px;
+  border: 6px solid aliceblue;
+  height: 300px;
+  background-size: cover;
+  box-shadow: 0px 0px 10px black;
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s;
+  height: 200px;
+  margin: 10px auto;
+}
+.Mclaren:hover{
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+}
+.supra{
+  margin: 0 auto;
+  background-image: url("supra.webp");
+  width: 400px;
+  border: 6px solid aliceblue;
+  height: 300px;
+  background-size: cover;
+  box-shadow: 0px 0px 10px black;
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s;
+  height: 200px;
+  margin: 10px auto;
+}
+.supra:hover{
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+}
+.ford{
+  margin: 0 auto;
+  background-image: url("ford.webp");
+  width: 400px;
+  border: 6px solid aliceblue;
+  height: 300px;
+  background-size: cover;
+  box-shadow: 0px 0px 10px black;
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s;
+  height: 200px;
+  margin: 10px auto;
+}
+.ford:hover{
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+}
+.audi{
+  margin: 0 auto;
+  background-image: url("audi.jpg");
+  width: 400px;
+  border: 6px solid aliceblue;
+  height: 300px;
+  background-size: cover;
+  box-shadow: 0px 0px 10px black;
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s;
+  height: 200px;
+  margin: 10px auto;
+}
+.audi:hover{
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+}
+p{
+  font-size: 20px;
+}
